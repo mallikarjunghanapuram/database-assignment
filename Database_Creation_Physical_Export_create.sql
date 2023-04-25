@@ -33,7 +33,6 @@
     CREATE TABLE Enrolment (
         Course_ID int  NOT NULL,
         Student_ID int  NOT NULL,
-        Course_Course_ID  int  NOT NULL,
         CONSTRAINT Enrolment_pk PRIMARY KEY (Course_ID,Student_ID)
     );
 
