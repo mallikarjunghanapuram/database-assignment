@@ -1,0 +1,3 @@
+SELECT SUM(Amount_Paid) FROM Payment WHERE Student_ID = 101;
+
+SELECT AVG(Amount_Paid) FROM Payment;

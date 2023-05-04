@@ -1,0 +1,1 @@
+DELETE FROM Attendance WHERE Attendance_ID = 3;
